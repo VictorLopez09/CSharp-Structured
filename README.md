@@ -81,19 +81,3 @@ El programa se organiza en:
 
 * `Main()` → Controla el flujo principal del programa
 * `ShowMenu()` → Muestra el menú de productos
-
----
-
-## 📌 Ejemplo de Flujo
-
-```
-Mostrar menú
-↓
-Usuario selecciona producto
-↓
-Se suma el precio
-↓
-¿Salir?
-↓
-Mostrar total
-```
